@@ -10,7 +10,7 @@
 -- Atlasīt unikālus skolas dibinātājus (DISTINCT) https://www.w3schools.com/sql/sql_distinct.asp
 -- Atlasīt top 5 skolas pēc 12 klašu skolēnu skaita (ORDER BY, LIMIT) https://www.w3schools.com/sql/sql_top.asp
 -- Atlasīt top 5 skolas pēc mazāka 10 klašu skolēnu skaita (ORDER BY, LIMIT) https://www.w3schools.com/sql/sql_top.asp
--- Atlasīt skolas nosaukumus un kopēju vidusskolas skolēnu skait (https://www.quora.com/How-do-I-sum-two-columns-in-SQL)
+-- Atlasīt skolas nosaukumus un kopēju vidusskolas skolēnu skaitu (https://www.quora.com/How-do-I-sum-two-columns-in-SQL)
 
 
 CREATE TABLE schools (
